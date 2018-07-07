@@ -1,0 +1,15 @@
+SET serviceAreas[~30] ARRAY
+
+GET userPostcode from KEYBOARD
+
+    
+    IF userPostcode == serviceAreas[ANY]
+    
+        SEND "We service your area! Ready to contact us?"   to DISPLAY
+        
+    ELSE
+    
+        SEND "We don't usually travel to your area, however, feel free to contact us for a
+              PC build, or if you think you're just out of reach!"   to DISPLAY
+              
+    
