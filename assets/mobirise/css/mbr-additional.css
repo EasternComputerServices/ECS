@@ -1893,7 +1893,7 @@ body {
 }
 .cid-qZkKoSx9az .price-figure {
   font-weight: 700;
-  color: #232323;
+  color: #a430a1;
 }
 .cid-qZkKoSx9az .price-value {
   font-weight: 700;
@@ -1903,6 +1903,9 @@ body {
   .cid-qZkKoSx9az .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-qZkKoSx9az SPAN {
+  color: #a430a1;
 }
 .cid-qX7mkcR6WQ {
   padding-top: 90px;
@@ -1934,7 +1937,7 @@ body {
 .cid-qX7erI0qK0 {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #2e2e2e;
+  background-color: #390436;
 }
 .cid-qX7erI0qK0 .row-links {
   width: 100%;
